@@ -1,4 +1,14 @@
-EO-UIView-Layout
-================
+# UIView layout helper category
+=============================
 
-Layout helper category on UIView
+This is a simple but useful category that adds the following properties to UIView:
+
+### top
+### right
+### bottom
+### left
+
+### topLeft
+### topRight
+### bottomLeft
+### bottomRight;
